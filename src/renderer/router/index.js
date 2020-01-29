@@ -12,7 +12,7 @@ export default new Router({
     {
       path: '/',
       name: 'landing-page',
-      component: require('@/components/SearchPage').default
+      component: require('@/components/DetailsPage').default,
     }
   ]
 })

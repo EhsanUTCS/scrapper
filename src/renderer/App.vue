@@ -6,10 +6,12 @@
 
 <script>
   export default {
-    name: 'iranome-scrapper'
+    name: 'Scrapper'
   }
 </script>
 
 <style>
-  /* CSS */
+.details .vs-table--content {
+    overflow: hidden !important;
+}
 </style>

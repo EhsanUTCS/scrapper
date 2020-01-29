@@ -8,8 +8,6 @@
 </template>
 
 <script>
-import {vsButton} from 'vuesax';
-
 export default {
     name: 'search-page',
     data () {
